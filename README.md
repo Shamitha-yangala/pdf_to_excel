@@ -34,10 +34,10 @@ The **Restaurant Menu PDF to Excel Converter** is a Django web application desig
 - Python 3.x
 - pip (Python package installer)
 
-### Setup Instructions
+## Setup Instructions
 
 1. Clone the repository:
-    git clone https://github.com/yourusername/restaurant-menu-converter.git
+    git clone https://github.com/-----.git
     cd restaurant-menu-converter
    
 2. Create a virtual environment:
